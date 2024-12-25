@@ -1,0 +1,9 @@
+certifi==2024.8.30
+charset-normalizer==3.4.0
+idna==3.10
+kafka-python @ git+https://github.com/dpkp/kafka-python.git@a6d0579d3cadd3826dd364b01bc12a2173139abc
+py4j==0.10.9.7
+pyspark==3.5.3
+requests==2.32.3
+six==1.16.0
+urllib3==2.2.3
